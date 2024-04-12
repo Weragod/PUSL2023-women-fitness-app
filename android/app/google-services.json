@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065219109443",
+    "project_id": "women-fitness-2b2d8",
+    "storage_bucket": "women-fitness-2b2d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065219109443:android:09a862c88a07639e2edaf6",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGtRl4OqE4h8b0YTfhK00nGJnEGVGXOI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
